@@ -1,0 +1,30 @@
+2024-02-24 21:40:00.678 | INFO     | __main__:main:67 - The main procedure has started with the following parameters:
+2024-02-24 21:40:00.678 | INFO     | __main__:main:68 - Model: MF
+2024-02-24 21:40:00.678 | INFO     | __main__:main:69 - Seed: 42
+2024-02-24 21:40:00.678 | INFO     | __main__:main:70 - Device: cuda
+2024-02-24 21:40:00.702 | INFO     | __main__:main:80 - The datasets are loaded where their statistics are as follows:
+2024-02-24 21:40:00.702 | INFO     | __main__:main:81 - training instances: 64000
+2024-02-24 21:40:00.703 | INFO     | __main__:main:82 - validation instances: 16000
+2024-02-24 21:40:00.703 | INFO     | __main__:main:99 - Training the model has begun with the following hyperparameters:
+2024-02-24 21:40:00.703 | INFO     | __main__:main:100 - Batch Size: 64
+2024-02-24 21:40:00.703 | INFO     | __main__:main:101 - Epochs: 17
+2024-02-24 21:40:00.703 | INFO     | __main__:main:102 - K: 12
+2024-02-24 21:40:00.703 | INFO     | __main__:main:103 - Learning Rate: 0.0005
+Epoch 00: 1.101 training RMSE
+Epoch 01: 1.086 training RMSE
+Epoch 02: 0.9279 training RMSE
+Epoch 03: 0.9316 training RMSE
+Epoch 04: 1.142 training RMSE
+Epoch 05: 1.075 training RMSE
+Epoch 06: 0.9633 training RMSE
+Epoch 07: 1.113 training RMSE
+Epoch 08: 0.871 training RMSE
+Epoch 09: 0.9557 training RMSE
+Epoch 10: 0.8477 training RMSE
+Epoch 11: 0.97 training RMSE
+Epoch 12: 0.908 training RMSE
+Epoch 13: 0.8271 training RMSE
+Epoch 14: 0.7014 training RMSE
+Epoch 15: 0.8337 training RMSE
+Epoch 16: 0.8048 training RMSE
+2024-02-24 21:45:11.457 | INFO     | __main__:main:118 - The model has been trained. The test rmse is 0.9413.
